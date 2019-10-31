@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="tr">True</string>
+    <string name="fal">False</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="question">Question</string>
+    <string-array name="preguntas">
+        <item>1. (2+2=4)</item>
+        <item>2. (15/3=12)</item>
+        <item>3. (2*3=5)</item>
+    </string-array>
+    <string-array name="respuestas">
+        <item>True</item>
+        <item>False</item>
+        <item>False</item>
+    </string-array>
+</resources>
